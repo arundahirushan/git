@@ -1,4 +1,4 @@
-
+```
 // COMMON MONGOOSE SCHEMA FIELDS (with meaning + examples)
 
 name: {
@@ -65,6 +65,7 @@ password: {
   required: true,
   select: false,                   // Hidden by default in queries
 },
+```
 ```
 
 ## Most Commonly Used Options Explained
