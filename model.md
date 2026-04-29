@@ -1,5 +1,5 @@
 ```
-// COMMON MONGOOSE SCHEMA FIELDS (with meaning + examples)
+##COMMON MONGOOSE SCHEMA FIELDS (with meaning + examples)
 
 name: {
   type: String,                    // Data type must be text
