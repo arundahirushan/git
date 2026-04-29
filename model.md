@@ -1,4 +1,4 @@
-```
+
 // COMMON MONGOOSE SCHEMA FIELDS (with meaning + examples)
 
 name: {
